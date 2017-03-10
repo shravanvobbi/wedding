@@ -1,0 +1,7 @@
+Welcome to devops training session
+In the last class we covered about github
+We learned how we can access github community
+Also how to operate github
+We cloned files from different repositories to our repositories
+Then we discussed about maven in github
+/bin/bash: wq: command not found
